@@ -1,0 +1,18 @@
+table{
+    width: 600px;
+    /* text-align muda a posição do texto dentro da tabela */
+    text-align:left;
+}
+
+thead{
+    background-color:silver;
+}
+
+table{
+    /* padding distancia o item da tabela da magem da tabela */
+padding: 10px;
+}
+
+tr:hover {
+    background-color: #ccc;
+}
